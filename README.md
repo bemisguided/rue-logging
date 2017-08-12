@@ -2,14 +2,14 @@
 
 **rue** a not (too) opinionated dependency injection container for nodejs  
 
-[![npm](https://img.shields.io/npm/v/rue-config.svg)](https://www.npmjs.com/package/rue-logging)
+[![npm](https://img.shields.io/npm/v/rue-logging.svg)](https://www.npmjs.com/package/rue-logging)
 [![state](https://img.shields.io/badge/state-beta-orange.svg)](https://github.com/bemisguided/rue-logging)
-[![npm](https://img.shields.io/npm/l/rue-config.svg)](https://www.npmjs.com/package/rue-logging)
-[![node](https://img.shields.io/node/v/rue-config.svg)](https://www.npmjs.com/package/rue-logging)
-[![David](https://img.shields.io/david/bemisguided/rue-config.svg)](https://github.com/bemisguided/rue-logging)
-[![Build Status](https://travis-ci.org/bemisguided/rue-config.svg)](https://travis-ci.org/bemisguided/rue-logging)
+[![npm](https://img.shields.io/npm/l/rue-logging.svg)](https://www.npmjs.com/package/rue-logging)
+[![node](https://img.shields.io/node/v/rue-logging.svg)](https://www.npmjs.com/package/rue-logging)
+[![David](https://img.shields.io/david/bemisguided/rue-logging.svg)](https://github.com/bemisguided/rue-logging)
+[![Build Status](https://travis-ci.org/bemisguided/rue-logging.svg)](https://travis-ci.org/bemisguided/rue-logging)
 
-[![NPM](https://nodei.co/npm/rue-config.png?downloads=false&downloadRank=false)](https://www.npmjs.com/package/rue-logging)
+[![NPM](https://nodei.co/npm/rue-logging.png?downloads=false&downloadRank=false)](https://www.npmjs.com/package/rue-logging)
 
 ## Overview
 
